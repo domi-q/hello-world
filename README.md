@@ -1,2 +1,3 @@
 # hello-world
-hello world test respository
+
+This is my first project on github!
